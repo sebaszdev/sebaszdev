@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+Mi nombre es Sebastián, tengo 20 años y me gusta el desarrolo de software y la informatica.
+
+## Tecnologías y herramientas
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,git,java,py,react,nodejs,postgres&theme=dark)](https://skillicons.dev)
 <!--
 **sebaszdev/sebaszdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
